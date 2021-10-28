@@ -1,0 +1,21 @@
+.output li {
+    display: block;
+    float: left;
+    width: 25%;
+    border: 2px solid white;
+    padding: 5px;
+    height: 40px;
+    background-color: #ffcccc;
+    color: black;
+   
+    
+}
+h1{
+    font-family: Locanita;
+}
+label{
+    font-family: Locanita;
+}
+body{
+    background-image: url(melo.jpg);
+}
